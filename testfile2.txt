@@ -1,2 +1,5 @@
 This is a text(.txt) file generated for a basic test.
 This shall be the last line before modification.
+
+This line is a change.
+It was modified to see how our test has gone.
